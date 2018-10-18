@@ -1,0 +1,19 @@
+body {
+     /*background-color: #b9def0*/;
+ }
+#sprite_container {
+    width: 80%;
+    height: 100px;
+    display: block;
+    overflow: hidden;
+    background-color: #b9def0;
+}
+#sprite_container img {
+
+    height: 100%;
+}
+
+#file_div {
+    height: 300px;
+    background-color: red;
+}
